@@ -1,0 +1,15 @@
+{
+  "name": "atomic-swap-js",
+  "version": "0.0.0",
+  "description": "js implementation of cross-chain atomic swap",
+  "main": "atomic-swap.js",
+  "author": "arcalinea",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib-zcash": "git+https://github.com/arcalinea/bitcore-lib-zcash.git",
+  },
+  "repository" : {
+   "type" : "git",
+   "url" : "https://github.com/arcalinea/atomic-swap-js"
+ }
+}
