@@ -83,6 +83,7 @@ var AtomicSwap = (function(){
 
     // greate new transaction "toPayload"
     var txToPayload
+    // make array obj or return like this?
     return [txToPayload, redeemScript]
 
   };
